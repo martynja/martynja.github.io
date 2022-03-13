@@ -13,7 +13,7 @@ body {
 }
 
 h2, p {
-    margin: 40px 60px;
+    margin: 40px 10px;
     line-height: 1.5;
     font-weight: 100;
 }
@@ -38,7 +38,7 @@ footer {
     transition: left 0.2s;
     box-shadow: 7px 6px 24px -10px rgb(121, 126, 165);
     visibility: hidden;
-    padding-left: 25px;
+    padding-left: 10px;
 }
 
 .nav__main input[type="checkbox"] {
@@ -50,7 +50,7 @@ footer {
     cursor: pointer;
     font-size: 30px;
     transition: transform 0.3s, 0.3s;
-    padding: 15px 60px;
+    padding: 15px 10px;
 }
 
 .nav__main input:checked~label {
