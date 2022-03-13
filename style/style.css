@@ -32,7 +32,7 @@ footer {
 .nav__menu {
     background-color: rgb(255, 255, 255);
     width: 100vw;
-    line-height: 2;
+    line-height: 3.5;
     text-transform: uppercase;
     position: absolute;
     transition: left 0.2s;
