@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500&display=swap');
 
 body {
-    max-width: 1200px;
+    width: 100vw;
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
     color: black;
@@ -109,6 +109,9 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
+    body {
+        max-width: 1200px;
+    }
 
     .nav__menu {
         box-shadow: none;
