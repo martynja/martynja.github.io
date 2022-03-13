@@ -89,6 +89,13 @@ footer {
     text-decoration: underline;
 }
 
+@media screen and (max-width:992px) and (orientation:landscape) {
+
+    .nav__menu {
+        line-height: 2.5;
+    }
+}
+
 @media screen and (min-width: 576px) {
 
     .nav__main {
