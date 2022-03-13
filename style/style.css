@@ -90,12 +90,12 @@ footer {
     text-decoration: underline;
 }
 
-@media screen and (max-width:992px) and (orientation:landscape) {
+/* @media screen and (max-width:992px) and (orientation:landscape) {
 
     .nav__menu {
         line-height: 2;
     }
-}
+} */
 
 @media screen and (min-width: 576px) {
 
